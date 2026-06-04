@@ -1,0 +1,23 @@
+job_role,skills
+Data Scientist,Python SQL Machine_Learning Statistics Data_Analysis TensorFlow Pandas NumPy Visualization Deep_Learning
+ML Engineer,Python TensorFlow PyTorch Machine_Learning Deep_Learning MLOps Docker Kubernetes Cloud Algorithms
+Backend Developer,Python Java SQL APIs REST Django Flask Databases Algorithms Data_Structures
+Frontend Developer,JavaScript HTML CSS React Vue TypeScript UI_UX Figma Responsive_Design Node.js
+Full Stack Developer,JavaScript Python HTML CSS React Node.js SQL REST APIs Databases Django
+DevOps Engineer,AWS Docker Kubernetes CI_CD Linux Automation Bash Terraform Cloud Monitoring
+Cloud Architect,AWS Azure GCP Cloud Docker Kubernetes Terraform Networking Security Automation
+Data Engineer,Python SQL ETL Spark Hadoop Airflow Cloud Data_Pipelines Databases NoSQL
+Cybersecurity Analyst,Networking Security Linux Penetration_Testing Cryptography Firewalls Python SIEM Cloud
+AI Research Scientist,Python Deep_Learning TensorFlow PyTorch Algorithms Research Mathematics Statistics NLP Computer_Vision
+NLP Engineer,Python NLP Deep_Learning TensorFlow PyTorch Text_Processing BERT Transformers Linguistics Machine_Learning
+Computer Vision Engineer,Python Deep_Learning TensorFlow PyTorch Computer_Vision OpenCV Image_Processing Algorithms CNN
+Blockchain Developer,Solidity JavaScript Cryptography Smart_Contracts Ethereum Decentralized_Apps Web3 Security
+Mobile Developer,Swift Kotlin Java Android iOS React_Native Flutter Mobile_Development UI_UX APIs
+Game Developer,C++ Unity Python Algorithms Graphics 3D_Modeling Physics_Simulation Game_Design JavaScript
+Database Administrator,SQL NoSQL Oracle MySQL PostgreSQL MongoDB Performance_Tuning Backup_Recovery Cloud Databases
+Systems Programmer,C C++ Linux Embedded_Systems Operating_Systems Low_Level_Programming Assembly Networking
+Site Reliability Engineer,AWS Linux Docker Kubernetes CI_CD Automation Monitoring Performance_Tuning Python Cloud
+Data Analyst,SQL Python Statistics Excel Tableau Power_BI Data_Visualization Reporting Business_Intelligence
+Product Manager,Agile JIRA Communication Roadmapping User_Research Data_Analysis Business_Strategy UX Stakeholder_Management
+Robotics Engineer,Python C++ ROS Embedded_Systems Control_Systems Algorithms Sensors Machine_Learning Kinematics
+Quantitative Analyst,Python Statistics Mathematics R Financial_Modeling Algorithms Risk_Analysis Data_Analysis Machine_Learning
